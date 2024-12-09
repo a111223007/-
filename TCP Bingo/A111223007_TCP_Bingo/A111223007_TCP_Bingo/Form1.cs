@@ -23,8 +23,7 @@ namespace A111223007_TCP_Bingo
         Thread Th;
         string User;
         Color original;
-        string my;
-        bool Turn = true;
+        
 
         private string MyIP()
         {
@@ -106,6 +105,7 @@ namespace A111223007_TCP_Bingo
                 if (listBox1.SelectedItem.ToString() != User)
                 {
                     Send("I" + User + "," + comboBox1.Text + "|" + listBox1.SelectedItem);
+                    isInvited = true;  // 設置為已經邀請玩家
                 }
                 else
                 {
@@ -117,6 +117,8 @@ namespace A111223007_TCP_Bingo
                 MessageBox.Show("沒有選取邀請的對象!");
             }
         }
+        string my;
+        bool Turn = true;
 
         private void button25_Click(object sender, EventArgs e)
         {
@@ -364,11 +366,21 @@ namespace A111223007_TCP_Bingo
             }
         }
 
+        private bool isInvited = false;  // 是否已經邀請玩家
+
+
         private void B0_Click(object sender, EventArgs e)
         {
-            if (Turn == false) return;
+            if (!isInvited)  // 如果尚未邀請玩家，顯示提示並返回
+            {
+                MessageBox.Show("請先邀請玩家!");
+                return;
+            }
+
+            if (Turn == false) return;  // 確保是輪到玩家
+
             Button B = (Button)sender;
-            if (B.Tag.ToString() != "_") return;
+            if (B.Tag.ToString() != "_") return;  // 如果已經被標記過則不做操作
 
             B.Tag = "0";
             B.Enabled = false;

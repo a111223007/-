@@ -8,3 +8,13 @@ C:\Users\shu\Desktop\Web-Programming\A111223007_TCP_Client\A111223007_TCP_Client
 C:\Users\shu\Desktop\Web-Programming\A111223007_TCP_Client\A111223007_TCP_Client\obj\Debug\A111223007_TCP_Client.csproj.CoreCompileInputs.cache
 C:\Users\shu\Desktop\Web-Programming\A111223007_TCP_Client\A111223007_TCP_Client\obj\Debug\A111223007_TCP_Client.exe
 C:\Users\shu\Desktop\Web-Programming\A111223007_TCP_Client\A111223007_TCP_Client\obj\Debug\A111223007_TCP_Client.pdb
+C:\Users\shu\Desktop\Web-Programming\TCP\A111223007_TCP_Client\A111223007_TCP_Client\bin\Debug\A111223007_TCP_Client.exe.config
+C:\Users\shu\Desktop\Web-Programming\TCP\A111223007_TCP_Client\A111223007_TCP_Client\bin\Debug\A111223007_TCP_Client.exe
+C:\Users\shu\Desktop\Web-Programming\TCP\A111223007_TCP_Client\A111223007_TCP_Client\bin\Debug\A111223007_TCP_Client.pdb
+C:\Users\shu\Desktop\Web-Programming\TCP\A111223007_TCP_Client\A111223007_TCP_Client\obj\Debug\A111223007_TCP_Client.csproj.AssemblyReference.cache
+C:\Users\shu\Desktop\Web-Programming\TCP\A111223007_TCP_Client\A111223007_TCP_Client\obj\Debug\A111223007_TCP_Client.Form1.resources
+C:\Users\shu\Desktop\Web-Programming\TCP\A111223007_TCP_Client\A111223007_TCP_Client\obj\Debug\A111223007_TCP_Client.Properties.Resources.resources
+C:\Users\shu\Desktop\Web-Programming\TCP\A111223007_TCP_Client\A111223007_TCP_Client\obj\Debug\A111223007_TCP_Client.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\Web-Programming\TCP\A111223007_TCP_Client\A111223007_TCP_Client\obj\Debug\A111223007_TCP_Client.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\Web-Programming\TCP\A111223007_TCP_Client\A111223007_TCP_Client\obj\Debug\A111223007_TCP_Client.exe
+C:\Users\shu\Desktop\Web-Programming\TCP\A111223007_TCP_Client\A111223007_TCP_Client\obj\Debug\A111223007_TCP_Client.pdb

@@ -8,3 +8,13 @@ C:\Users\m306\Downloads\Web-Programming\A1112223007_TCP_Bingo_Server\A1112223007
 C:\Users\m306\Downloads\Web-Programming\A1112223007_TCP_Bingo_Server\A1112223007_TCP_Bingo_Server\obj\Debug\A1112223007_TCP_Bingo_Server.csproj.CoreCompileInputs.cache
 C:\Users\m306\Downloads\Web-Programming\A1112223007_TCP_Bingo_Server\A1112223007_TCP_Bingo_Server\obj\Debug\A1112223007_TCP_Bingo_Server.exe
 C:\Users\m306\Downloads\Web-Programming\A1112223007_TCP_Bingo_Server\A1112223007_TCP_Bingo_Server\obj\Debug\A1112223007_TCP_Bingo_Server.pdb
+C:\Users\shu\Desktop\Web-Programming\TCP Bingo\A1112223007_TCP_Bingo_Server\A1112223007_TCP_Bingo_Server\bin\Debug\A1112223007_TCP_Bingo_Server.exe.config
+C:\Users\shu\Desktop\Web-Programming\TCP Bingo\A1112223007_TCP_Bingo_Server\A1112223007_TCP_Bingo_Server\bin\Debug\A1112223007_TCP_Bingo_Server.exe
+C:\Users\shu\Desktop\Web-Programming\TCP Bingo\A1112223007_TCP_Bingo_Server\A1112223007_TCP_Bingo_Server\bin\Debug\A1112223007_TCP_Bingo_Server.pdb
+C:\Users\shu\Desktop\Web-Programming\TCP Bingo\A1112223007_TCP_Bingo_Server\A1112223007_TCP_Bingo_Server\obj\Debug\A1112223007_TCP_Bingo_Server.csproj.AssemblyReference.cache
+C:\Users\shu\Desktop\Web-Programming\TCP Bingo\A1112223007_TCP_Bingo_Server\A1112223007_TCP_Bingo_Server\obj\Debug\A1112223007_TCP_Bingo_Server.Form1.resources
+C:\Users\shu\Desktop\Web-Programming\TCP Bingo\A1112223007_TCP_Bingo_Server\A1112223007_TCP_Bingo_Server\obj\Debug\A1112223007_TCP_Bingo_Server.Properties.Resources.resources
+C:\Users\shu\Desktop\Web-Programming\TCP Bingo\A1112223007_TCP_Bingo_Server\A1112223007_TCP_Bingo_Server\obj\Debug\A1112223007_TCP_Bingo_Server.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\Web-Programming\TCP Bingo\A1112223007_TCP_Bingo_Server\A1112223007_TCP_Bingo_Server\obj\Debug\A1112223007_TCP_Bingo_Server.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\Web-Programming\TCP Bingo\A1112223007_TCP_Bingo_Server\A1112223007_TCP_Bingo_Server\obj\Debug\A1112223007_TCP_Bingo_Server.exe
+C:\Users\shu\Desktop\Web-Programming\TCP Bingo\A1112223007_TCP_Bingo_Server\A1112223007_TCP_Bingo_Server\obj\Debug\A1112223007_TCP_Bingo_Server.pdb

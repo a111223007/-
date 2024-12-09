@@ -134,22 +134,22 @@ namespace A1112223007_TCP_Bingo_Server
 
         private void SendTo(string Str, string User)
         {
-            listBox2.Items.Add("(傳送)" + Str + ":" + User);
+            
             byte[] B = Encoding.Default.GetBytes(Str);
             Socket Sck = (Socket)HT[User];
             Sck.Send(B, B.Length, SocketFlags.None);
-
+            listBox2.Items.Add("(傳送)" + Str + ":" + User);
         }
 
         private void SendAll(string Str)
         {
-            listBox2.Items.Add("(傳送)" + Str);
+            
             byte[] B = Encoding.Default.GetBytes(Str);
             foreach (Socket s in HT.Values)
             {
                 s.Send(B, 0, B.Length, SocketFlags.None);
             }
-
+            listBox2.Items.Add("(傳送)" + Str);
         }
 
         private void Form1_Load(object sender, EventArgs e)
