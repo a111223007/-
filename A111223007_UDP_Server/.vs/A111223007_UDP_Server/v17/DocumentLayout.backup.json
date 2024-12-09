@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shu\\Desktop\\Web-Programming\\A111223007_UDP_Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6FBF0C-48BE-4E67-AD3B-642F1D0ACCF5}|A111223007_UDP_Server\\A111223007_UDP_Server.csproj|c:\\users\\shu\\desktop\\web-programming\\a111223007_udp_server\\a111223007_udp_server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF6FBF0C-48BE-4E67-AD3B-642F1D0ACCF5}|A111223007_UDP_Server\\A111223007_UDP_Server.csproj|solutionrelative:a111223007_udp_server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6FBF0C-48BE-4E67-AD3B-642F1D0ACCF5}|A111223007_UDP_Server\\A111223007_UDP_Server.csproj|c:\\users\\shu\\desktop\\web-programming\\a111223007_udp_server\\a111223007_udp_server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6FBF0C-48BE-4E67-AD3B-642F1D0ACCF5}|A111223007_UDP_Server\\A111223007_UDP_Server.csproj|solutionrelative:a111223007_udp_server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\Web-Programming\\A111223007_UDP_Server\\A111223007_UDP_Server\\Form1.cs",
+              "RelativeDocumentMoniker": "A111223007_UDP_Server\\Form1.cs",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\Web-Programming\\A111223007_UDP_Server\\A111223007_UDP_Server\\Form1.cs",
+              "RelativeToolTip": "A111223007_UDP_Server\\Form1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:44:40.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\Web-Programming\\A111223007_UDP_Server\\A111223007_UDP_Server\\Form1.cs",
+              "RelativeDocumentMoniker": "A111223007_UDP_Server\\Form1.cs",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\Web-Programming\\A111223007_UDP_Server\\A111223007_UDP_Server\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "A111223007_UDP_Server\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:44:08.264Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
